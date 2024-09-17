@@ -11,7 +11,6 @@ This project aims to classify emotions from facial images using a machine learni
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
