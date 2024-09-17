@@ -1,5 +1,3 @@
-You can copy the following content and paste it directly into your GitHub `README.md` file:
-
 ```markdown
 # Facial and Emotional Recognition Model
 
