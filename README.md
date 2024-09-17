@@ -1,4 +1,4 @@
-```bash
+```markdown
 # Facial and Emotional Recognition Model
 
 This project aims to classify emotions from facial images using a machine learning model developed in Python and Jupyter Notebook. The model processes grayscale images, detects facial features, and predicts the corresponding emotions.
